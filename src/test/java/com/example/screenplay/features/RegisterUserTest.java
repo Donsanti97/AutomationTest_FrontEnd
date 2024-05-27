@@ -37,7 +37,6 @@ public class RegisterUserTest {
                 Open.url("https://demoqa.com/login"),
                 RegisterUser.withData(userData)
         );
-        // Additional steps to verify and perform other tasks can be added here.
     }
 }
 
